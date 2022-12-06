@@ -1,0 +1,16 @@
+resource,tool,F,A,I,R,report_url,datetime,status
+https://data.marine.copernicus.eu/product/BLKSEA_MULTIYEAR_PHY_007_004/description,FAIR-Checker,3/4,1/1,2/3,1/3,,2022-11-13 18:53:44.041125,success
+https://data.marine.copernicus.eu/product/BLKSEA_MULTIYEAR_PHY_007_004/description,F-UJI,2.5/7,1/3,0/4,1/10,,2022-11-13 18:54:25.265924,success
+https://data.marine.copernicus.eu/product/BLKSEA_MULTIYEAR_PHY_007_004/description,FAIR-Enough,2/6,4/3,0/5,0/2,https://fair-enough.semanticscience.org/evaluations/af175db3848d8f1093bae6db0d10e8d16600fc56,2022-11-13 18:54:38.078272,success
+https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-europe-air-quality-forecasts?tab=overview,FAIR-Checker,3/4,1/1,3/3,2/3,,2022-11-13 18:54:48.427067,success
+https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-europe-air-quality-forecasts?tab=overview,F-UJI,1/7,0/3,0/4,0/10,,2022-11-13 18:55:02.243102,success
+https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-europe-air-quality-forecasts?tab=overview,FAIR-Enough,2/6,0/3,0/5,0/2,https://fair-enough.semanticscience.org/evaluations/eae613a8f59e53b862e576dc7b94d242d0186864,2022-11-13 18:55:08.757778,success
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-glofas-seasonal-reforecast?tab=overview,FAIR-Checker,3/4,1/1,3/3,2/3,,2022-11-13 18:55:16.921831,success
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-glofas-seasonal-reforecast?tab=overview,F-UJI,1/7,0/3,0/4,0/10,,2022-11-13 18:55:29.562682,success
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-glofas-seasonal-reforecast?tab=overview,FAIR-Enough,2/6,0/3,0/5,0/2,https://fair-enough.semanticscience.org/evaluations/5ee8b0bbdf1f5fc0e292a23c16be2a0751f9fe21,2022-11-13 18:55:35.529817,success
+https://land.copernicus.vgt.vito.be/geonetwork/srv/eng/catalog.search#/metadata/urn:cgls:global:wl_v2_lakes,FAIR-Checker,1/4,1/1,0/3,0/3,,2022-11-13 18:55:43.503127,success
+https://land.copernicus.vgt.vito.be/geonetwork/srv/eng/catalog.search#/metadata/urn:cgls:global:wl_v2_lakes,F-UJI,1/7,0/3,0/4,0/10,,2022-11-13 18:56:18.353499,success
+https://land.copernicus.vgt.vito.be/geonetwork/srv/eng/catalog.search#/metadata/urn:cgls:global:wl_v2_lakes,FAIR-Enough,2/6,0/3,0/5,0/2,https://fair-enough.semanticscience.org/evaluations/10ac8d56129ebb196af7c7182102664d55bab349,2022-11-13 18:56:34.082016,success
+https://zenodo.org/record/5848610,FAIR-Checker,4/4,1/1,3/3,2/3,,2022-11-13 18:56:42.136176,success
+https://zenodo.org/record/5848610,F-UJI,7/7,3/3,3/4,6/10,,2022-11-13 18:57:12.629812,success
+https://zenodo.org/record/5848610,FAIR-Enough,3/6,2/3,5/5,2/2,https://fair-enough.semanticscience.org/evaluations/01b49525c64bfb8803658ddec51953c52175a5e2,2022-11-13 18:57:26.329939,success
